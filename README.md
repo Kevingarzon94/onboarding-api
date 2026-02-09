@@ -7,8 +7,9 @@
 3. Crea un archivo .env con: JWT_SECRET=tu_clave_secreta.
 
 4. Ejecuta:
-```    pnpm install
-    pnpm run start:dev
+``` 
+pnpm install
+pnpm run start:dev
 ```
 
     La API correrá en http://localhost:3000.      
